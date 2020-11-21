@@ -1,10 +1,13 @@
 # readisten
 
-Readisten and readisten incorporated has provided some open source
+Readisten and readisten incorporated has 
+provided some open source
 text and materials for users, developers, 
 scientists, enthusiasts, and professionals.
 
-Readisten transforms data to audio. Current works are based off biomedical research.
+Readisten transforms data to audio. 
+Current works are based off 
+biomedical research.
 
 We will work with our text to speech and 
 robotic speech system providers to
